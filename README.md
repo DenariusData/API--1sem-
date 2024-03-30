@@ -13,7 +13,7 @@
 - Beatriz Carvalho
 - Beatriz Sthefanny Araujo Santos
 - Clarice Costa
-- Larrisa Claro
+- Larissa Claro
 - Luiz Silva
 - Mariana Oliveira
 - Rafael Slivka
