@@ -1,7 +1,9 @@
 # Denarius Data
 
-![LOGO](https://github.com/DenariusData/API-1sem/assets/129512938/f2bd829e-49d1-49e7-af7e-8b7b59045b1a)
+ <img src="./Logo.jpeg" height="400" width="400"/>
+<p align="center">Experiência sem fronteiras.</p>
 
+![image](https://github.com/DenariusData/API-1sem/assets/129512938/c5dc2d35-711a-4d9f-b8b5-52392ff2e905)
 
 * [Missão](#missão)
 * [Visão](#visão)
