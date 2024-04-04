@@ -32,14 +32,6 @@ Sprint | Entrega | Oque iremos entregar|
 |03| 26/05/2024 |a fazer |
 |Feira de Soluções|27/06/2024 |a fazer |
 
-# Datas das Entregas:
-
-- [Kick-off geral] realizado dia 08/03
-- [Kick-off 1° semestre] realizado dia 15/03
-- [Sprint1] entrega entre 25/03 a 14/04
-- [Sprint2] entrega entre 15/04 a 05/05
-- [Sprint3] entrega entre 06/05 a 26/05
-
 <br>
 
 ##  Equipe
