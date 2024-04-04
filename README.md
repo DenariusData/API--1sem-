@@ -1,7 +1,6 @@
 # Calculadora Cientifica
 
 <div align="center">
-  <img src=" height="400" width="400"/>
   
   ![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/e87dbd3d-092c-4f42-97c2-1658ea6f4cb3)
 
