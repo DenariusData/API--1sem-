@@ -1,8 +1,10 @@
 # Denarius Data
 
- <img src="./![image]" height="250" width="250"/>
+<div align="center">
+ 
+![LOGO](https://github.com/DenariusData/API-1sem/assets/129512938/5798e0e7-3d81-4367-a847-f5c33a177fe6)
 
-![image](https://github.com/DenariusData/API-1sem/assets/129512938/c5dc2d35-711a-4d9f-b8b5-52392ff2e905)
+
 
 * [Missão](#missão)
 * [Visão](#visão)
@@ -20,9 +22,13 @@ Nossa visão é nos tornarmos referência na área em que atuamos, valorizando a
 
 O respeito por hierarquias, a excelência em serviços, a dedicação e o comprometimento com o desenvolvimento organizacional. Além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
 
+# Datas das Entregas:
 
-
-### Projeto Integrador do 1º Semestre de Banco de Dados da Fatec de São José dos Campos
+- [Kick-off geral] realizado dia 08/03
+- [Kick-off 1° semestre] realizado dia 15/03
+- [Sprint1] entrega entre 25/03 a 14/04
+- [Sprint2] entrega entre 15/04 a 05/05
+- [Sprint3] entrega entre 06/05 a 26/05
 
 <br>
 
@@ -48,16 +54,6 @@ O respeito por hierarquias, a excelência em serviços, a dedicação e o compro
 #### Foram utilizadas as seguintes tecnologias:
 
 - **Programação:** VisualG
-
-<br>
-
-## 🕛 Cronograma
-
-<a fazer>Sprint 1: 25/03 - 14/04 </a><br>
-<a fazer>Sprint 2: 15/09 - 05/05</a><br>
-<a fazer>Sprint 3: 06/05 - 26/05</a><br>
-<a fazer>Sprint 4: 27/05 - 16/06</a><br> 
-
 
 <br>
 
