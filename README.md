@@ -1,5 +1,6 @@
 # Denarius Data
 
+<div align="center">
  <img src="./Logo.jpeg" height="250" width="250"/>
 <p align="center">
 
