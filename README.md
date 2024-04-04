@@ -1,9 +1,10 @@
 # Calculadora Cientifica
 
 <div align="center">
-  <img src="./Logo.jpeg" height="400" width="400"/>
+  <img src="./Logo.jpeg" height="350" width="350"/>
   
-![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/c9e2790f-9bcd-4158-a182-f62ea0e0ca85)
+  ![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/5c23d5c0-aca6-47d8-9664-e7fea2516346)
+
 
 
 
