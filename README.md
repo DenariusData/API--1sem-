@@ -2,7 +2,8 @@
 
 <div align="center">
  
-![LOGO](https://github.com/DenariusData/API-1sem/assets/129512938/5798e0e7-3d81-4367-a847-f5c33a177fe6)
+![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/6c85a097-9278-48f5-a9c7-eb898e45ff95)
+
 
 
 
