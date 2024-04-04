@@ -1,8 +1,26 @@
-# Calculadora Cientifica
+# Denarius Data
 
 <div align="center">
   
   ![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/e87dbd3d-092c-4f42-97c2-1658ea6f4cb3)
+
+# Sumário
+
+* [Missão](#missão)
+* [Visão](#visão)
+* [Valores](#valores)
+
+# Missão
+
+Facilitar o acesso e a compreensão dos princípios da programação e lógica de algoritmos através da plataforma Visualg, capacitando indivíduos a desenvolverem habilidades essenciais para a resolução de problemas computacionais e impulsionando a inovação e o desenvolvimento tecnológico.
+
+#Visão
+
+Nossa visão é nos tornarmos referência na área em que atuamos, valorizando a integração das funções de nossos colaboradores e compreendendo que o funcionamento de uma área de uma instituição não começa nem termina em si mesma.
+
+#Valores
+
+O respeito por hierarquias, a excelência em serviços, a dedicação e o comprometimento com o desenvolvimento organizacional. Além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
 
 
 
