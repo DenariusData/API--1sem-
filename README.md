@@ -1,8 +1,10 @@
 # Calculadora Cientifica
 
 <div align="center">
-  <img src="./Logo.png" height="400" width="400"/>
-![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/091c833a-7088-4784-9bd7-e5f5bf68d6f7)
+  <img src="./Logo.jpeg" height="400" width="400"/>
+  
+![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/c9e2790f-9bcd-4158-a182-f62ea0e0ca85)
+
 
 
 ### Projeto Integrador do 1º Semestre de Banco de Dados da Fatec de São José dos Campos
