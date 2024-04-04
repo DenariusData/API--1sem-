@@ -1,8 +1,9 @@
 # Denarius Data
-  
-  ![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/e87dbd3d-092c-4f42-97c2-1658ea6f4cb3)
 
-# Sumário
+<div align="center">
+  <img src="./Logo.png" height="400" width="400"/>
+<p align="center">Experiência sem fronteiras.</p>
+
 
 * [Missão](#missão)
 * [Visão](#visão)
