@@ -32,9 +32,7 @@ O respeito por hierarquias, a excelência em serviços, a dedicação e o compro
 
 <br>
 
-## 🙅‍♂️ Equipe
-
-#### **Equipe Denarius Data**
+##  Equipe
 
 #### **Integrantes:** 
 - Beatriz Carvalho
