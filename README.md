@@ -21,7 +21,7 @@ Nossa visão é nos tornarmos referência na área em que atuamos, valorizando a
 
 # Valores
 
-O respeito por hierarquias, a excelência em serviços, a dedicação e o comprometimento com o desenvolvimento organizacional. Além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
+A dedicação e o comprometimento com o desenvolvimento organizacional. Além disso, nós valorizamos a ética, a integridade e a transparência em todas as suas ações.
 
 # Datas das Entregas:
 
