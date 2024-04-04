@@ -3,7 +3,8 @@
 <div align="center">
   <img src="./Logo.jpeg" height="350" width="350"/>
   
-  ![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/5c23d5c0-aca6-47d8-9664-e7fea2516346)
+ ![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/9e7bbc68-8c3b-466c-9244-5653df801e91)
+
 
 
 
