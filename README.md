@@ -2,9 +2,8 @@
 
 <div align="center">
   <img src="./Logo.png" height="400" width="400"/>
-<p align="center">(https://github.com/DenariusData/API-1sem/assets/129512938/9e7bbc68-8c3b-466c-9244-5653df801e91)</p>
-
-
+  
+  ![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/e87dbd3d-092c-4f42-97c2-1658ea6f4cb3)
 
 
 
