@@ -14,11 +14,11 @@
 
 Facilitar o acesso e a compreensão dos princípios da programação e lógica de algoritmos através da plataforma Visualg, capacitando indivíduos a desenvolverem habilidades essenciais para a resolução de problemas computacionais e impulsionando a inovação e o desenvolvimento tecnológico.
 
-#Visão
+# Visão
 
 Nossa visão é nos tornarmos referência na área em que atuamos, valorizando a integração das funções de nossos colaboradores e compreendendo que o funcionamento de uma área de uma instituição não começa nem termina em si mesma.
 
-#Valores
+# Valores
 
 O respeito por hierarquias, a excelência em serviços, a dedicação e o comprometimento com o desenvolvimento organizacional. Além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
 
