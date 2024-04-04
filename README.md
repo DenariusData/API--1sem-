@@ -1,6 +1,6 @@
 # Denarius Data
 
- <img src="./Logo.jpeg" height="250" width="250"/>
+ <img src="./![image]" height="250" width="250"/>
 
 ![image](https://github.com/DenariusData/API-1sem/assets/129512938/c5dc2d35-711a-4d9f-b8b5-52392ff2e905)
 
