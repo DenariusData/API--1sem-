@@ -1,8 +1,8 @@
 # Denarius Data
 
 <div align="center">
- 
-![163135805](https://github.com/DenariusData/API-1sem/assets/129512938/6c85a097-9278-48f5-a9c7-eb898e45ff95)
+ <img src="./Logo.png"/>
+</div>
 
 
 
