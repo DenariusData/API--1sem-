@@ -30,7 +30,8 @@ Sprint | Entrega | Oque iremos entregar|
 |01| 14/04/2024 | Na nossa primeira entrega, iremos demonstrar como será feito, a linguagem usada e a tecnologia | 
 |02| 05/05/2024 | a fazer| 
 |03| 26/05/2024 |a fazer |
-|Feira de Soluções|27/06/2024 |a fazer |
+|04| 16/06/2024 |a fazer |
+|Feira de Soluções|27/06/2024 |
 
 <br>
 
