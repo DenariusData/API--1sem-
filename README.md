@@ -62,7 +62,9 @@ Sprint | Entrega | Oque iremos entregar|
 ## 📃 Backlog
 
 
+![Backlog produto](https://github.com/DenariusData/API-1sem/assets/163482399/8f3d27a8-742b-4048-b477-89860971ce28)
 
+![Backlog sprint](https://github.com/DenariusData/API-1sem/assets/163482399/04287ee4-143a-46b9-a13f-124be185bbe4)
 
 ## ℹ️ Como usar a aplicação
 
