@@ -55,12 +55,13 @@ Sprint | Entrega | Oque iremos entregar|
 #### Foram utilizadas as seguintes tecnologias:
 
 - **Programação:** VisualG
+- **Planejamento:** Canva e Trello
 
 <br>
 
 ## 📃 Backlog
 
-<a exemplo>Backlog</a><br>
+<a exemplo>https://photos.google.com/photo/AF1QipPwX9gyqp2bmDEil-4dkQn4ReexrE1SlxWxW6Di</a><br>
 
 <br>
 
