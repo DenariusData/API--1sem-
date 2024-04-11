@@ -61,9 +61,7 @@ Sprint | Entrega | Oque iremos entregar|
 
 ## 📃 Backlog
 
-<a exemplo>https://photos.google.com/photo/AF1QipPwX9gyqp2bmDEil-4dkQn4ReexrE1SlxWxW6Di</a><br>
-
-<br>
+<img src="https://photos.google.com/photo/AF1QipPwX9gyqp2bmDEil-4dkQn4ReexrE1SlxWxW6Di" />
 
 
 ## ℹ️ Como usar a aplicação
