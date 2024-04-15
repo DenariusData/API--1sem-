@@ -37,7 +37,7 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 - Mariana Oliveira
 - Rafael Slivka
 - Tiago Bernardo Santos
-- Thiago
+- Thiago da Silva de Abreu
 
 <br>
 
