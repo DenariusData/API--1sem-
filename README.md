@@ -54,9 +54,11 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 
 
-![BACKLOG DO PRODUTO](https://github.com/DenariusData/API-1sem/assets/163482399/2827e643-b8bc-43f5-9153-003ca8f60e2b)
+![BACKLOG DO PRODUTO](https://github.com/DenariusData/API-1sem/assets/163482399/2827e643-b8bc-43f5-9153-003ca8f60e2b)]
 
-![Backlog sprint](https://github.com/DenariusData/API-1sem/assets/163482399/04287ee4-143a-46b9-a13f-124be185bbe4)
+![BACKLOG DO PRODUTO (2)](https://github.com/DenariusData/API-1sem/assets/163482399/de10d0aa-0d2c-48d1-8aa2-9824bdeeb929)
+
+
 
 ## ℹ️ Como usar a aplicação
 
