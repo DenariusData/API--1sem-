@@ -60,5 +60,4 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 ## ℹ️ Como usar a aplicação
 
-### Pré-requisitos
-[Critérios Utilizados.pdf](https://github.com/DenariusData/API-1sem/files/14971730/Criterios.Utilizados.pdf)
+
