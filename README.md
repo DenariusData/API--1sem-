@@ -31,7 +31,7 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 #### **Integrantes:** 
 - Beatriz Carvalho
 - Beatriz Sthefanny Araujo Santos
-- Clarice Costa
+- Clarice Corrêa Costa
 - Larissa Claro
 - Luiz Silva
 - Mariana Yasmin Santos de Oliveira
