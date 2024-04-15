@@ -34,7 +34,7 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 - Clarice Costa
 - Larissa Claro
 - Luiz Silva
-- Mariana Oliveira
+- Mariana Yasmin Santos de Oliveira
 - Rafael Slivka
 - Tiago Bernardo Santos
 - Thiago da Silva de Abreu
