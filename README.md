@@ -29,7 +29,7 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 ##  Equipe
 
 #### **Integrantes:** 
-- Beatriz Carvalho
+- Beatriz Carvalho Cunha
 - Beatriz Sthefanny Araujo Santos
 - Clarice Corrêa Costa
 - Larissa Claro
