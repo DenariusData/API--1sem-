@@ -53,10 +53,11 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 ## 📃 Backlog
 
 
+![BACKLOG DO PRODUTO (4)](https://github.com/DenariusData/API-1sem/assets/163482399/65011d1b-2bf9-4e9d-8938-3d90b5b3c18e)
 
-![BACKLOG DO PRODUTO](https://github.com/DenariusData/API-1sem/assets/163482399/2827e643-b8bc-43f5-9153-003ca8f60e2b)
 
-![BACKLOG DO PRODUTO (2)](https://github.com/DenariusData/API-1sem/assets/163482399/de10d0aa-0d2c-48d1-8aa2-9824bdeeb929)
+
+![BACKLOG DA SPRINT](https://github.com/DenariusData/API-1sem/assets/163482399/4b1a8bf3-6000-475c-9e9d-f0a8f3942351)
 
 
 
