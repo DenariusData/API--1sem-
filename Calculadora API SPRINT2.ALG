@@ -264,9 +264,10 @@ Inicio
 FimFuncao
 
 // Funcao para realizar o calculo de juros simples
-Funcao jurosSimples(): real
+Funcao jurosSimples(): caracter
 Var
    capital, taxa, meses, juros: real
+   resultado: caracter
 Inicio
    Escreval("JUROS SIMPLES")
    // Solicita ao usuário que insira o capital inicial
@@ -284,7 +285,8 @@ Inicio
    // Calcula os juros simples
    juros <- (capital * taxa * meses) / 100
 
-   retorne capital + juros
+   resultado <- "O montante total com juros simples é " + Numpcarac(capital+juros)
+   retorne resultado
 FimFuncao
 
 // Funcao para realizar o calculo de juros compostos
@@ -309,7 +311,7 @@ Inicio
 FimFuncao
 
 // Funcao para exibir menu para as conversoes
-Funcao menuConversoes() : caracter
+Procedimento menuConversoes()
 Var
 opcao: caracter
 
@@ -357,11 +359,10 @@ Inicio
       fimEscolha
    Ate opcao = "7"
    limpatela()
-   retorne ""
-FimFuncao
+FimProcedimento
 
 // Funcao para exibir menu para os juros
-Funcao menuJuros() : caracter
+Procedimento menuJuros()
 Var
 opcao: caracter
 
@@ -378,7 +379,7 @@ Inicio
       escolha opcao
          caso "1"
               limpatela()
-              Escreva("O montante total com juros simples é: ", jurosSimples())
+              Escreva(jurosSimples())
               Escreval()
               Escreval()
          caso "2"
@@ -389,8 +390,7 @@ Inicio
       fimEscolha
    Ate opcao = "3"
    limpatela()
-   retorne ""
-FimFuncao
+FimProcedimento
 
 // Algoritmo principal
 Inicio
@@ -425,14 +425,14 @@ Inicio
               Escreval()
               Escreval()
          caso "4"
-              Escreva(menuConversoes())
+              menuConversoes()
          caso "5"
               limpatela()
               Escreva("Resultado: ", concatenacao())
               Escreval()
               Escreval()
          caso "6"
-              Escreva(menuJuros())
+              menuJuros()
       fimEscolha
    Ate MENUopcao = "7"
 Fimalgoritmo
