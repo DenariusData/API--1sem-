@@ -84,6 +84,7 @@ Var
    resultado: caracter
 
 Inicio
+   Escreval("EQUAÇÃO DE SEGUNDO GRAU")
    Escreva("Digite o valor de a: ")
    Leia(a)
 
