@@ -63,6 +63,55 @@ Inicio
    retorne resultado
 FimFuncao
 
+// Função para calculo da raiz quadrada (auxiliar no calculo da eq. de seg grau)
+Funcao raizQuadrada(numero: Real): Real
+Var
+   raiz, erro, anterior: Real
+Inicio
+   raiz <- numero / 2
+   erro <- 0.1
+   repita
+      anterior <- raiz
+      raiz <- (raiz + numero / raiz) / 2
+   ate abs(raiz - anterior) < erro
+   Retorne raiz
+FimFuncao
+
+Funcao eqSegundoGrau(): caracter
+Var
+   a, b, c: Real
+   delta, x1, x2: real
+   resultado: caracter
+
+Inicio
+   Escreva("Digite o valor de a: ")
+   Leia(a)
+
+   Escreva("Digite o valor de b: ")
+   Leia(b)
+
+   Escreva("Digite o valor de c: ")
+   Leia(c)
+
+   delta <- b * b - 4 * a * c
+
+   Se delta < 0 Entao
+      resultado <- "A equação não possui raízes reais."
+   Senao
+      Se delta = 0 Entao
+      escreval("O delta é: " , delta)
+         x1 <- (-b) / (2 * a)
+         resultado <- "A equação possui uma raiz real: " + Numpcarac(x1)
+      Senao
+         x1 <- (-b + raizQuadrada(delta)) / (2 * a)
+         x2 <- (-b - raizQuadrada(delta)) / (2 * a)
+         resultado <- "O resultado do seu delta é: " + Numpcarac(delta) + ". E sua  equação possui duas raízes reais: " + Numpcarac(x1) + " e " + Numpcarac(x2)
+      FimSe
+   FimSe
+   
+   retorne resultado
+FimFuncao
+
 // Funcao para realizar a conversao de um decimal para binario
 Funcao decimToBin(): caracter
 Var
@@ -370,8 +419,10 @@ Inicio
               Escreval()
               Escreval()
          caso "3"
-              Escreval("Em produção")
               limpatela()
+              Escreva(eqSegundoGrau())
+              Escreval()
+              Escreval()
          caso "4"
               Escreva(menuConversoes())
          caso "5"
