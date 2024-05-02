@@ -1,4 +1,4 @@
-Algoritmo "Calculadora API SPRINT1"
+Algoritmo "Calculadora API SPRINT2"
 // Declaracao das variaveis
 Var
    // Variavel para armazenar a opcao escolhida pelo usuario
@@ -382,6 +382,5 @@ Inicio
          caso "6"
               Escreva(menuJuros())
       fimEscolha
-
    Ate MENUopcao = "7"
 Fimalgoritmo
