@@ -199,6 +199,34 @@ Inicio
    retorne octal
 FimFuncao
 
+// Funcao para realizar a conversao de um octal para binario
+Procedimento octalToBin()
+Var
+   numeroOctal, indice, i, resto:inteiro
+   digitosBinarios: vetor[1..30] de real
+   
+Inicio
+   Escreval("OCTAL -> BINÁRIO")
+   escreva("Digite o número octal: ")
+    leia(numeroOctal)
+    escreva("Rsultado: ")
+    indice <- 0
+    enquanto numeroOctal > 0 faca
+        resto <- numeroOctal % 10
+        para i de 1 ate 3 faca
+            digitosBinarios[indice + i] <- resto % 2
+            resto <- resto div 2
+        fimpara
+        indice <- indice + 3
+        numeroOctal <- numeroOctal div 10
+    fimenquanto
+
+    para i de indice ate 1 passo -1 faca
+        escreva(digitosBinarios[i])
+    fimpara
+    Escreval()
+FimProcedimento
+
 // Funcao para realizar a conversao de um binario para hexadecimal
 Funcao binToHexa(): caracter
 Var
@@ -346,8 +374,9 @@ Inicio
               Escreval()
               Escreval()
          caso "4"
-              Escreva("Em produção")
               limpatela()
+              octalToBin()
+              Escreval()
          caso "5"
               limpatela()
               Escreva("Resultado: ", binToHexa())
