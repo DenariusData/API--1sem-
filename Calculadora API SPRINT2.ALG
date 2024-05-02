@@ -276,6 +276,83 @@ Inicio
    retorne hex
 FimFuncao
 
+// Funcao para realizar a conversao de um hexadecimal para binário
+Funcao hexaToBin(): caracter
+Var
+   hexadecimal: vetor[1..100] de caractere
+   hexInput, hexInputMaiusc: caractere
+   binario, digito: caractere
+   i, j: inteiro
+   existe: logico
+Inicio
+   j <- 1
+   binario <- ""
+   existe <- falso
+   Escreval("Digite o número hexadecimal (Digite 'SAIR' para finalizar): ")
+
+   enquanto (hexInputMaiusc <> "SAIR") faca
+      Escreva(j, " - ")
+      Leia(hexInput)
+
+      hexInputMaiusc <- Maiusc(hexInput)
+
+      se((compr(hexInputMaiusc) > 1) e (hexInputMaiusc <> "SAIR")) entao
+         escreval("DIGITE APENAS UM CARACTERE POR VEZ")
+      senao
+         se (compr(hexInputMaiusc) = 1) entao
+            hexadecimal[j] <- hexInputMaiusc
+            j:= j+1
+            existe <- verdadeiro
+         fimse
+      fimse
+   fimenquanto
+
+   para i de 1 ate j-1 faca
+      Escolha hexadecimal[i]
+         Caso "0"
+            binario <- binario + "0000"
+         Caso "1"
+            binario <- binario + "0001"
+         Caso "2"
+            binario <- binario + "0010"
+         Caso "3"
+            binario <- binario + "0011"
+         Caso "4"
+            binario <- binario + "0100"
+         Caso "5"
+            binario <- binario + "0101"
+         Caso "6"
+            binario <- binario + "0110"
+         Caso "7"
+            binario <- binario + "0111"
+         Caso "8"
+            binario <- binario + "1000"
+         Caso "9"
+            binario <- binario + "1001"
+         Caso "A"
+            binario <- binario + "1010"
+         Caso "B"
+            binario <- binario + "1011"
+         Caso "C"
+            binario <- binario + "1100"
+         Caso "D"
+            binario <- binario + "1101"
+         Caso "E"
+            binario <- binario + "1110"
+         Caso "F"
+            binario <- binario + "1111"
+      FimEscolha
+   Fimpara
+
+   se (existe = falso) entao
+      retorne "Nenhum valor compativel com conversão foi inserido"
+   fimse
+   
+   se (existe = verdadeiro) entao
+      retorne binario
+   fimse
+FimFuncao
+
 // Funcao para realizar a concatenacao de duas strings
 Funcao concatenacao(): caracter
 Var
@@ -383,8 +460,10 @@ Inicio
               Escreval()
               Escreval()
          caso "6"
-              Escreva("Em produção")
               limpatela()
+              Escreva("Resultado: ", hexaToBin())
+              Escreval()
+              Escreval()
       fimEscolha
    Ate opcao = "7"
    limpatela()
