@@ -6,10 +6,13 @@
 
 
 
-
+* [Tema do semestre](#tema)
 * [Missão](#missão)
 * [Visão](#visão)
 * [Valores](#valores)
+
+# Tema do semestre
+Desenvolvimento de uma solução computacional simples, com ênfase em implementações de algoritmos e lógica de programação. Como oportunidade de aprendizado, a implementação de algoritmos matemáticos, acessíveis por uma interface similar à uma calculadora científica, permite explorar o uso de diversas técnicas de programação, necessárias aos alunos de algoritmos.
 
 # Missão
 
@@ -45,8 +48,8 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 #### Foram utilizadas as seguintes tecnologias:
 
-- **Programação:** VisualG
-- **Planejamento:** Canva e Trello
+- **Programação:** ![Visualg](https://img.shields.io/badge/visualg-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- **Planejamento:** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br>
 
