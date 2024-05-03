@@ -74,7 +74,7 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 ![BACKLOG DA SPRINT](https://github.com/DenariusData/API-1sem/assets/163482399/4b1a8bf3-6000-475c-9e9d-f0a8f3942351)
 
 ## Organização do grupo 
-• Será aceito 1 falta por mês nas reuniões semanais (quinta-feira)
+• Será aceito apenas 1 falta por mês nas reuniões semanais (quinta-feira)
 •	Respeitar os prazos e padrões de commit(organização)
 •	Expor dificuldades durante o processo, assim evitando problemas próximos a apresentação
 • Propõe-se que todos apresentem pelo menos uma sprint
