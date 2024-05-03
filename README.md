@@ -7,12 +7,23 @@
 
 
 * [Tema do semestre](#tema)
+* [Descrição do produto](#produto)
 * [Missão](#missão)
 * [Visão](#visão)
 * [Valores](#valores)
 
 # Tema do semestre
 Desenvolvimento de uma solução computacional simples, com ênfase em implementações de algoritmos e lógica de programação. Como oportunidade de aprendizado, a implementação de algoritmos matemáticos, acessíveis por uma interface similar à uma calculadora científica, permite explorar o uso de diversas técnicas de programação, necessárias aos alunos de algoritmos.
+
+# Descrição do produto
+Uma calculadora científica que possui uma interface de texto que acessa operações matemáticas e permite realizar mais de uma operação por execução.
+Sendo as operações:
+• Básicas (soma, subtração, multiplicação e divisão)
+• Fatorial
+• Função de Segundo Grau
+• Operações de conversão de base numérica (B10 X B2 / B2 x B10 / B2 x B8 / B8 x B2 / B2 x B16 / B16 x B2)
+• Concatenação de 2 Strings
+• Juros simples e Juros  Compostos
 
 # Missão
 
@@ -62,8 +73,8 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 ![BACKLOG DA SPRINT](https://github.com/DenariusData/API-1sem/assets/163482399/4b1a8bf3-6000-475c-9e9d-f0a8f3942351)
 
-
-
-## ℹ️ Como usar a aplicação
-
-
+## Organização do grupo 
+• Será aceito 1 falta por mês nas reuniões semanais (quinta-feira)
+•	Respeitar os prazos e padrões de commit(organização)
+•	Expor dificuldades durante o processo, assim evitando problemas próximos a apresentação
+• Propõe-se que todos apresentem pelo menos uma sprint
