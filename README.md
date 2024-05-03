@@ -75,6 +75,6 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 ## Organização do grupo 
 - Será aceito apenas 1 falta por mês nas reuniões semanais (quinta-feira)
-- Respeitar os prazos e padrões de commit(organização)
+- Respeitar os prazos e padrões de commit (organização)
 - Expor dificuldades durante o processo, assim evitando problemas próximos a apresentação
 - Propõe-se que todos apresentem pelo menos uma sprint
