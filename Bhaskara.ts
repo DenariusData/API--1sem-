@@ -1,3 +1,4 @@
+//ts-node bhaskara.ts para leitura no terminal
 function bhaskara(a: number, b: number, c: number): { x1: number, x2: number } | string {
     const delta = b * b - 4 * a * c;
     if (delta < 0) return "Não existem raízes reais.";
