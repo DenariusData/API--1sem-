@@ -1,0 +1,7 @@
+# Arquivos de compilação e dependências
+node_modules/
+dist/
+
+# Arquivos de configuração específicos do ambiente de desenvolvimento local
+.vscode/
+.DS_Store
