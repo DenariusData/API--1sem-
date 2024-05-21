@@ -64,16 +64,26 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 <br>
 
-## 📃 Backlog
+## 📃 Backlog do produto
 
 
-![BACKLOG DO PRODUTO (4)](https://github.com/DenariusData/API-1sem/assets/163482399/65011d1b-2bf9-4e9d-8938-3d90b5b3c18e)
+![image](https://github.com/DenariusData/API-1sem/assets/163482399/be0014d2-ef64-4123-993a-32a95b15ef34)
 
 
+## 📃 Backlog da sprint 1
+![image](https://github.com/DenariusData/API-1sem/assets/163482399/fa07f334-7cff-4d4d-ac89-f54b161e35a9)
 
-![BACKLOG DA SPRINT](https://github.com/DenariusData/API-1sem/assets/163482399/4b1a8bf3-6000-475c-9e9d-f0a8f3942351)
+## 📃 Backlog da sprint 2
+![image](https://github.com/DenariusData/API-1sem/assets/163482399/6455e1fb-1367-46e1-bdbf-531d27fb3d5b)
 
-## Organização do grupo 
+## 📃 Backlog da sprint 3
+![image](https://github.com/DenariusData/API-1sem/assets/163482399/cc6e5994-29a6-4ac4-a2bb-dd09b82dc899)
+
+## 📃 Backlog da sprint 4
+![image](https://github.com/DenariusData/API-1sem/assets/163482399/2d29db20-3154-486c-843c-2f80cb84d494)
+
+
+## Requisitos de permanência do grupo
 - Será aceito apenas 1 falta por mês nas reuniões semanais (quinta-feira)
 - Respeitar os prazos e padrões de commit (organização)
 - Expor dificuldades durante o processo, assim evitando problemas próximos a apresentação
