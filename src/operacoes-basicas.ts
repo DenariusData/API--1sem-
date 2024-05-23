@@ -3,7 +3,7 @@ let numero: number;
 let resultado: number;
 let operacao: string;
 
-const readlineSync = require('prompt-sync')();
+var readlineSync = require('prompt-sync')();
 
 // Função para ler entrada do usuário
 function leia(promptText: string): string {
