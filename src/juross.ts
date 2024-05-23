@@ -12,5 +12,5 @@ if (isNaN(capital) || isNaN(taxa) || isNaN(tempo)) {
 }
 else {
     var juros = capital * taxa * tempo;
-    console.log("Juros Simples: ".concat(juros));
+    console.log("Juros Simples: ".concat(juros.toString()));
 }
