@@ -71,7 +71,7 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 
 ## 📃 Backlog da sprint 1
-![image](https://github.com/DenariusData/API-1sem/assets/163482399/fa07f334-7cff-4d4d-ac89-f54b161e35a9)
+![Captura de tela 2024-05-22 212756](https://github.com/DenariusData/API-1sem/assets/162724918/56f6ac91-7c79-42c8-9c97-eac6aa36b43a)
 
 ## 📃 Backlog da sprint 2
 ![image](https://github.com/DenariusData/API-1sem/assets/163482399/6455e1fb-1367-46e1-bdbf-531d27fb3d5b)
