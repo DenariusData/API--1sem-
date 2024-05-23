@@ -80,7 +80,8 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 ![image](https://github.com/DenariusData/API-1sem/assets/163482399/cc6e5994-29a6-4ac4-a2bb-dd09b82dc899)
 
 ## 📃 Backlog da sprint 4
-![image](https://github.com/DenariusData/API-1sem/assets/163482399/2d29db20-3154-486c-843c-2f80cb84d494)
+![Captura de tela 2024-05-22 211209](https://github.com/DenariusData/API-1sem/assets/162724918/accdcba1-aca8-47cf-a1a3-26ac331c9016)
+
 
 
 ## Requisitos de permanência do grupo
