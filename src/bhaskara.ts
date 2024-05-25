@@ -31,5 +31,4 @@ if (typeof resultado === 'string') {
     console.log(resultado);
 } else {
     console.log("As raízes são: x1 = " + resultado.x1.toFixed(2) + ", x2 = " + resultado.x2.toFixed(2));
-    console.log("O valor de delta é: " + resultado.delta);
 }
