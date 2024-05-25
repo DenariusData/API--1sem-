@@ -60,7 +60,7 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 #### Foram utilizadas as seguintes tecnologias:
 
 - **Programação:** ![Visualg](https://img.shields.io/badge/visualg-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- **Planejamento:** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+- **Planejamento:** ![Excel](https://img.shields.io/badge/Excel-%2300A859.svg?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br>
 
