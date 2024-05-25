@@ -1,4 +1,4 @@
-const readlineSync = require('readline-sync');
+var readlineSync = require('readline-sync');
 
 let n = readlineSync.question('Digite um número: ');
 let f = 1;
