@@ -1,7 +1,7 @@
 # Denarius Data
 
 <div align="center">
- <img src="./Logo.png"/>
+ <img src="./docs/Logo.png"/>
 </div>
 
 
