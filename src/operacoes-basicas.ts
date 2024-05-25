@@ -20,8 +20,7 @@ function escreval(mensagem: any): void {
 }
 
 // Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("Informe numero");
-numero = parseFloat(leia(""));
+numero = parseFloat(leia("Informe numero: "));
 
 resultado = numero;
 
