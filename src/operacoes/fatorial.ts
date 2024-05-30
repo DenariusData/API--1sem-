@@ -1,6 +1,8 @@
 import * as readlineSync from 'readline-sync';
 
 export function fatorial() {
+    console.log("FATORIAL");
+    console.log();
 
     let n: number = readlineSync.questionInt('Digite um numero nao-negativo: ');
 

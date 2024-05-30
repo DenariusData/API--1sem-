@@ -25,6 +25,9 @@ function aplicarOperacao(resultado: number, operacao: string, numero: number): n
 }
 
 export function operacoesBasicas(): number {
+    console.log("OPERACOES BASICAS");
+    console.log();
+    
     let resultado: number = getNumber("Informe numero: ");
     let operacao: string;
 
