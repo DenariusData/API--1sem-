@@ -6,7 +6,7 @@ import { bhaskara } from './operacoes/bhaskara';
 import { menuConversoes } from './operacoes/conversao-bases/menu-conversao-bases';
 import { concatenacao } from './operacoes/concatenacao';
 import { menuJuros } from './operacoes/juros/menu-juros';
-import { keypress } from './keypress';
+import { keypress } from './utils/keypress';
 import { exit } from 'process';
 
 function exibirMenu(): number {
