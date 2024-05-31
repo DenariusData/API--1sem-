@@ -46,6 +46,5 @@ export function operacoesBasicas(): number {
 
     } while (operacao !== '=');
 
-    console.log(`O resultado final é: ${resultado}`);
     return resultado;
 }

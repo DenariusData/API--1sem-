@@ -1,15 +1,15 @@
 import * as readlineSync from 'readline-sync';
 import { clear } from 'console';
 import { keypress } from '../../utils/keypress';
-import { jurosSimples } from './juros-simples';
-import { jurosCompostos } from './juros-compostos';
+import { jurosSimples } from './calculos/juros-simples';
+import { jurosCompostos } from './calculos/juros-compostos';
 
 function exibirMenu(): number {
     clear();
     console.log("Escolha uma opcao: ");
     console.log("1. Juros simples");
     console.log("2. Juros compostos");
-    console.log("3. Voltar");
+    console.log("3. Voltar ao menu principal");
 
     return readlineSync.questionInt("Digite a opcao desejada: ");
 }

@@ -48,7 +48,7 @@ function executarOperacao(opcao: number): void {
             menuJuros();
             break;
         default:
-            console.log("Opcao inválida. Tente novamente.");
+            console.log("Opcao invalida. Tente novamente.");
             break;
     }
 }
@@ -66,7 +66,7 @@ function menuGeral() {
         }
 
         if (escolhaMenu < 1 || escolhaMenu > 7) {
-            console.log("Opcao inválida. Tente novamente.");
+            console.log("Opcao invalida. Tente novamente.");
             continue;
         }
 
