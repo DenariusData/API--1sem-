@@ -81,7 +81,8 @@ A dedicação e o comprometimento com o desenvolvimento organizacional. Além di
 
 
 ## 📃 Backlog da sprint 4
-![Captura de tela 2024-05-22 211209](https://github.com/DenariusData/API-1sem/assets/162724918/accdcba1-aca8-47cf-a1a3-26ac331c9016)
+![Captura de tela 2024-06-11 202313](https://github.com/DenariusData/API-1sem/assets/162724918/6a65b994-69b6-4ee8-95b5-5052f24a3565)
+
 
 
 
