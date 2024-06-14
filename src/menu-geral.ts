@@ -30,8 +30,8 @@ function executarOperacao(opcao: number): void {
             keypress();
             break;
         case 2:
-            console.log(`Resultado: ${fatorial()}`);
-            keypress();
+            fatorial()
+            keypress()
             break;
         case 3:
             bhaskara();
