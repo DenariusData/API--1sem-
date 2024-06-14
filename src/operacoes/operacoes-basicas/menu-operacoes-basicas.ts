@@ -14,7 +14,7 @@ function exibirMenu(): number {
     console.log("2. Subtracao");
     console.log("3. Multiplicacao");
     console.log("4. Divisao");
-    console.log("5. Sair");
+    console.log("5. Voltar ao menu principal");
 
     return readlineSync.questionInt("Digite a opcao desejada: ");
 }
