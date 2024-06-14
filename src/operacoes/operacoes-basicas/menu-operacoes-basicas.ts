@@ -43,7 +43,7 @@ function executarOperacao(opcao: number): void {
     }
 }
 
-export function menuOperacoesGerais() {
+export function menuOperacoesBasicas() {
     let escolhaMenu: number;
 
     do {
