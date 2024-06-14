@@ -1,7 +1,7 @@
 import * as readlineSync from 'readline-sync';
-import { operacoesBasicas } from './operacoes/operacoes-basicas';
 import { fatorial } from './operacoes/fatorial';
 import { bhaskara } from './operacoes/bhaskara';
+import { menuOperacoesGerais } from "./operacoes/operacoes-basicas/menu-operacoes-basicas"
 import { menuConversoes } from './operacoes/conversao-bases/menu-conversao-bases';
 import { concatenacao } from './operacoes/concatenacao';
 import { menuJuros } from './operacoes/juros/menu-juros';
@@ -26,8 +26,7 @@ function exibirMenu(): number {
 function executarOperacao(opcao: number): void {
     switch (opcao) {
         case 1:
-            console.log(`Resultado: ${operacoesBasicas()}`);
-            keypress();
+            menuOperacoesGerais();
             break;
         case 2:
             fatorial()

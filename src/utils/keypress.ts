@@ -3,6 +3,6 @@ import { clear } from 'console';
 
 
 export function keypress() {
-    readlineSync.keyInPause("Pressione qualquer tecla para continuar.");
+    readlineSync.keyInPause("Pressione qualquer tecla alfanumerica para continuar.");
     clear();
 }
